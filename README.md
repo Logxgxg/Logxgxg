@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### Repository of Jisoo Kim from Gachon University
+College of IT Convergence, Department of AI・Software
+Major in Artificial Intelligence (AI)
 
 <!--
 **Logxgxg/Logxgxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
