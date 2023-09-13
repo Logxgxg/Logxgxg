@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### Repository of Jisoo Kim from Gachon University
 College of IT Convergence, Department of AI・Software
+
 Major in Artificial Intelligence (AI)
 
 <!--
